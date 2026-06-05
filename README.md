@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://img.icons8.com/ios_filled/512/FA5252/react-native.png" width="120" alt="react2shell"><br>
   <h3>React2Shell</h3>
-  <p>CVE-2025-55182 (Next.js: CVE-2025-66478) - Unauthenticated RCE in React Server Components (Flight Protocol) - PoC Exploit</p>
+  <p>CVE-2025-55182 (Next.js: CVE-2025-66478)<br>Unauthenticated RCE in React Server Components (Flight Protocol) - PoC Exploit</p>
 </div>
 
 ### Description
