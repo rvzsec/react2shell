@@ -1,0 +1,37 @@
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# venvs
+venv/
+.venv/
+env/
+.env
+
+# editor / os
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# tooling
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# local testing artifacts
+*.log
+*.har
+loot/
+shadow.txt
+*.pcap
+cookie.txt
